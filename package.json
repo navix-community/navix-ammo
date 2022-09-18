@@ -1,0 +1,18 @@
+{
+  "name": "navix-ammo",
+  "version": "1.0.0",
+  "description": "Ammo.js with type definitions",
+  "main": "ammo/ammo.js",
+  "types": "ammo/ammo.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/navix-community/navix-ammo.git"
+  },
+  "homepage": "https://github.com/navix-community",
+  "author": "John Barneta",
+  "files": [
+    "ammo",
+    "package.json"
+  ],
+  "license": "MIT"
+}
